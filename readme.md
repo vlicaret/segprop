@@ -1,4 +1,8 @@
-## SegProp
+## Semantics through Time: Semi-supervised Segmentation of Aerial Videos with Iterative Label Propagation
+
+SegProp - Semantic label propagation code.
+
+The paper can be found [here](https://arxiv.org/abs/2010.01910) (accepted at ACCV 2020 as oral presentation).
 
 #### Preamble
 
